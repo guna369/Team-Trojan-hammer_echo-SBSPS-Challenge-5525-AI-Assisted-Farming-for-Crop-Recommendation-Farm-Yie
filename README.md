@@ -1,0 +1,2 @@
+# Team-Trojan-hammer_echo-SBSPS-Challenge-5525-AI-Assisted-Farming-for-Crop-Recommendation-Farm-Yie
+echo "# SBSPS-Challenge-5525-AI-Assisted-Farming-for-Crop-Recommendation-Farm-Yield-Prediction-Application" >> README.md git init git add README.md git commit -m "first commit" git branch -M main git remote add origin https://github.com/smartinternz02/SBSPS-Challenge-5525-AI-Assisted-Farming-for-Crop-Recommendation-Farm-Yield-Prediction-Application.git git push -u origin main
